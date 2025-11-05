@@ -25,17 +25,3 @@ int main() {
 
     return 0;
 }
-:bar_chart: My GitHub Stats	💫 About Me:
-🔭 I’m currently working on ...
-
-
-🤝 I’m looking for help with ...
-
-
-🌱 I’m currently learning ...
-
-
-💬 Ask me about ...
-
-
-⚡ Fun Fact: ...
