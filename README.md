@@ -49,5 +49,4 @@ int main() {
 
 ⚡ <b>Fun Fact:</b> I recently ditched Windows for Linux and I'm never going back!
 
-🛠️ The Arsenal
 </div>
