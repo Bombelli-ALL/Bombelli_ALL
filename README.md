@@ -29,4 +29,29 @@ int main() {
     return 0;
 }
 
+<div align="center">
 
+📡 System Status & User Data
+<table> <tr> <td width="50%" align="center" valign="top"> <h3>📈 Live 1337 Stats</h3> <a href="https://profile-v3.intra.42.fr/users/alerradi"> <img src="https://badge.mediaplus.ma/binary/alerradi" alt="alerradi's 42 stats" width="100%" /> </a> </td> <td width="50%" valign="top"> <h3>👤 User_Profile.txt</h3>
+
+
+🔭 <b>Current Task:</b> <code>omiFAT</code> (File System)
+
+
+🌱 <b>Learning:</b> C, C++, JavaScript
+
+
+💬 <b>Ask me about:</b> My Book 📖
+
+
+🤝 <b>Quest:</b> Cleaning out my closet 🧹
+
+
+⚡ <b>Fun Fact:</b> Feb 1865 & 1999 are the only months in history without a full moon!
+
+
+
+<a href="mailto:alerradi@student.1337.ma"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" /> </a> <a href="https://www.google.com/search?q=https://www.linkedin.com/in/alerradi"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" /> </a> </td> </tr> </table>
+
+🛠️ The Arsenal
+</div>
