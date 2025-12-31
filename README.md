@@ -49,6 +49,6 @@ int main() {
 
 ⚡ <b>Fun Fact:</b> I recently ditched Windows for Linux and I'm never going back!
 
-<a href="mailto:alerradi@student.1337.ma"> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Gmail-D14836?style=flat-square%26logo=gmail%26logoColor=white" /> </a> <a href="https://www.google.com/url?sa=E&source=gmail&q=https://www.linkedin.com/in/alerradi"> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square%26logo=linkedin%26logoColor=white" /> </a> </td> </tr> </table>
+<a href="mailto:alerradi@student.1337.ma"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" /> </a> <a href="https://www.google.com/url?sa=E&source=gmail&q=https://www.linkedin.com/in/alerradi"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" /> </a> </td> </tr>
 🛠️ The Arsenal
 </div>
