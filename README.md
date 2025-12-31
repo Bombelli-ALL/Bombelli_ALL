@@ -25,7 +25,7 @@ int main() {
         .alias = "Bombelli_ALL",
         .school = "1337 // UM6P"
     };
-    printf("Status: Turning caffeine into C code.\n");
+    printf("Status: Debugging life, one segfault at a time.\n");
     return 0;
 }
 
@@ -35,7 +35,7 @@ int main() {
 <table> <tr> <td width="50%" align="center" valign="top"> <h3>📈 Live 1337 Stats</h3> <a href="https://profile-v3.intra.42.fr/users/alerradi"> <img src="https://badge.mediaplus.ma/binary/alerradi" alt="alerradi's 42 stats" width="100%" /> </a> </td> <td width="50%" valign="top"> <h3>👤 User_Profile.txt</h3>
 
 
-🔭 <b>Current Task:</b> <code>omiFAT</code> (File System)
+🔭 <b>Current Task:</b> <code>Bombeli_ALL</code> (File System)
 
 
 🌱 <b>Learning:</b> C, C++, JavaScript
