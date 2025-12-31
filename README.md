@@ -3,7 +3,7 @@
 # Hi there, I'm Allaa! <img src="https://media.giphy.com/media/hvRJCLFzcuHTK/giphy.gif" width="30px">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Student+at+1337+%2F%2F+UM6P;C+Programming+Enthusiast;Working+on+omiFAT+File+System;Author+in+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Student+at+1337+%2F%2F+UM6P;C+Programming+Enthusiast;Working+on+Bombelli_ALL+File+System;Author+in+Progress" alt="Typing SVG" />
 </a>
 
 </div>
