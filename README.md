@@ -35,19 +35,19 @@ int main() {
 <table> <tr> <td width="50%" align="center" valign="top"> <h3>📈 Live 1337 Stats</h3> <a href="https://profile-v3.intra.42.fr/users/alerradi"> <img src="https://badge.mediaplus.ma/binary/alerradi" alt="alerradi's 42 stats" width="100%" /> </a> </td> <td width="50%" valign="top"> <h3>👤 User_Profile.txt</h3>
 
 
-🔭 <b>Current Task:</b> <code>Bombeli_ALL</code> (File System)
+🔭 <b>Current Task:</b> Building <code>Bombeli_ALL</code> (File System) without crashing the kernel.
 
 
-🌱 <b>Learning:</b> C, C++, JavaScript
+🌱 <b>Learning:</b> Mastering C & C++ (and wrestling with memory leaks).
 
 
-💬 <b>Ask me about:</b> My Book 📖
+💬 <b>Ask me about:</b> My Ubuntu server setup or One Piece theories.
 
 
-🤝 <b>Quest:</b> Cleaning out my closet 🧹
+🤝 <b>Quest:</b> Surviving the 1337 curriculum one project at a time.
 
 
-⚡ <b>Fun Fact:</b> Feb 1865 & 1999 are the only months in history without a full moon!
+⚡ <b>Fun Fact:</b> I recently ditched Windows for Linux and I'm never going back!
 
 <a href="mailto:alerradi@student.1337.ma"> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Gmail-D14836?style=flat-square%26logo=gmail%26logoColor=white" /> </a> <a href="https://www.google.com/url?sa=E&source=gmail&q=https://www.linkedin.com/in/alerradi"> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square%26logo=linkedin%26logoColor=white" /> </a> </td> </tr> </table>
 🛠️ The Arsenal
