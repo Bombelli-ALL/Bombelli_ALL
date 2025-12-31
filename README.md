@@ -28,8 +28,3 @@ int main() {
     printf("Status: Turning caffeine into C code.\n");
     return 0;
 }
-| My 42 Stats | 💫 About Me: | 
-
-| --- | --- |
-
-| [![alerradi's 42 stats](https://badge.mediaplus.ma/binary/alerradi)](https://profile-v3.intra.42.fr/users/alerradi) | 🔭 I’m currently working on : omiFAT <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++ and a bit of JS <br>💬 Ask me about my book :)<br>⚡
