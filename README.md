@@ -21,7 +21,7 @@ typedef struct {
 
 int main() {
     Student me = {
-        .name = "Allaa eddine erradi",
+        .name = "Allaa eddine",
         .alias = "Bombelli_ALL",
         .school = "1337 // UM6P"
     };
@@ -49,9 +49,6 @@ int main() {
 
 ⚡ <b>Fun Fact:</b> Feb 1865 & 1999 are the only months in history without a full moon!
 
-
-
-<a href="mailto:alerradi@student.1337.ma"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" /> </a> <a href="https://www.google.com/search?q=https://www.linkedin.com/in/alerradi"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" /> </a> </td> </tr> </table>
-
+<a href="mailto:alerradi@student.1337.ma"> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Gmail-D14836?style=flat-square%26logo=gmail%26logoColor=white" /> </a> <a href="https://www.google.com/url?sa=E&source=gmail&q=https://www.linkedin.com/in/alerradi"> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square%26logo=linkedin%26logoColor=white" /> </a> </td> </tr> </table>
 🛠️ The Arsenal
 </div>
