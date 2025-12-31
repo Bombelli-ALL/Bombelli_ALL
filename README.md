@@ -11,7 +11,6 @@
 <br/>
 
 ```c
-```c
 #include <stdio.h>
 
 typedef struct {
@@ -33,7 +32,7 @@ int main() {
 <div align="center">
 
 📡 System Status & User Data
-<table> <tr> <td width="50%" align="center" valign="top"> <h3>📈 Live 1337 Stats</h3> <a href="https://profile-v3.intra.42.fr/users/alerradi"> <img src="https://badge.mediaplus.ma/binary/alerradi" alt="alerradi's 42 stats" width="100%" /> </a> </td> <td width="50%" valign="top"> <h3>👤 User_Profile.txt</h3>
+<table> <tr> <td width="50%" align="center" valign="top"> <h3>📈 Live 1337 Stats</h3> <a href="https://github.com/oakoudad/badge42"> <img src="https://badge.mediaplus.ma/binary/alerradi" alt="alerradi's 42 stats" width="100%" /> </a> </td> <td width="50%" valign="top"> <h3>👤 User_Profile.txt</h3>
 
 
 🔭 <b>Current Task:</b> <code>omiFAT</code> (File System)
