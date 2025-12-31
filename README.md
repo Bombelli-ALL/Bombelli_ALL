@@ -28,5 +28,5 @@ int main() {
 ```
 | My 42 Stats | 💫 About Me: | 
 | --- | --- |
-| [![alerradi's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mcharouh)](https://profile-v3.intra.42.fr/users/alerradi) | 🔭 I’m currently working on : omiFAT <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++ and a bit of JS <br>💬 Ask me about my book :)<br>⚡ Fun Fact : Feb 1865 and Feb 1999 are the only months in recorded history not to have a full moon
+| [![alerradi's 42 stats]()](https://profile-v3.intra.42.fr/users/alerradi) | 🔭 I’m currently working on : omiFAT <br>🤝 I’m looking for help with cleaning out my closet<br>🌱 I’m currently learning C and C++ and a bit of JS <br>💬 Ask me about my book :)<br>⚡ Fun Fact : Feb 1865 and Feb 1999 are the only months in recorded history not to have a full moon
 
