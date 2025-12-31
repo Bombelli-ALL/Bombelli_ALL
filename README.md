@@ -11,6 +11,7 @@
 <br/>
 
 ```c
+```c
 #include <stdio.h>
 
 typedef struct {
