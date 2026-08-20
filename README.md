@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bombelli-ALL&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Bombelli-ALL&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Bombelli-ALL&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Bombelli-ALL&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 ### 🚀 Featured Projects
